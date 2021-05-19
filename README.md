@@ -7,6 +7,10 @@ Note:
 Please download the following library and place in this directory in order to run this program:
 https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5 (Trained nueral network)
 
+<img src="https://github.com/niked/ObjectDetection/blob/main/Result%20Images/Object_detection1.jpeg" width="250">
+<img src="https://github.com/niked/ObjectDetection/blob/main/Result%20Images/object_detection.jpeg" width="300" height="250">
+
+
 Following are the basic requirements to run this program:
 
 1. Python3
