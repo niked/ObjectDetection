@@ -9,7 +9,8 @@ pytesseract.pytesseract.tesseract_cmd = r'Please Install pytesseract manually an
 pytesseract.pytesseract.tesseract_cmd = 'System_path_to_tesseract.exe'
 
 # Read image from which text needs to be extracted
-img = cv2.imread("sample images\images.jpg")
+path = input("Please enter the path of the image you want to detect")
+img = cv2.imread(path)
 print(img)
 
 # Convert the image to gray scale
