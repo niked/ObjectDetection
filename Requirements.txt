@@ -6,7 +6,7 @@
 tensorflow
 imageai
 opencv-python
-
+pytesseract
 # Download the following library and place in the main directory of the program
 # https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
 
