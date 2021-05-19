@@ -1,10 +1,12 @@
 # Basic Packages Required in order to run this program
 # Use command,
 
-$pip3 install -r requirements.txt
+# $pip3 install -r requirements.txt
 
 tensorflow
 imageai
 opencv-python
-https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
+
+# Download the following library and place in the main directory of the program
+# https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5
 
