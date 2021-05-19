@@ -14,3 +14,8 @@ Following are the basic requirements to run this program:
 3. Tensorflow library
 4. Opencv-python
 5. High GPU Power
+
+For OCR(Optical Character recognition) the following are the libraries needed 
+1.Pytesseract
+2.Opencv-python
+
